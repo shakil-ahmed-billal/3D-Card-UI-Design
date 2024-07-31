@@ -167,7 +167,7 @@ body{
 }
 .container:hover .card .footer .social .social-icons{
     transform: translate3d(0,0,50px);
-    box-shadow: #05471133 -5px 20px;
+    box-shadow: #05471133 -5px 20px 10px;
 }
 .container:hover .card .logo .circle2{
     transform: translate3d(0,0,60px);
